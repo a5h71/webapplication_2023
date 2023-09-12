@@ -1,0 +1,54 @@
+
+{
+    "questions": [
+      {
+        "title": "Question 1: When was the Ottoman Empire founded?",
+        "answers": [
+          { "answer": "1299" },
+          { "answer": "1453" },
+          { "answer": "1520" },
+          { "answer": "1683", "correct": true }
+        ],
+        "helper": {
+          "text": "This question is about the establishment of the Ottoman Empire."
+        }
+      },
+      {
+        "title": "Question 2: Who was the founder of the Ottoman Empire?",
+        "answers": [
+          { "answer": "Mehmed the Conqueror" },
+          { "answer": "Suleiman the Magnificent" },
+          { "answer": "Osman I", "correct": true },
+          { "answer": "Selim the Grim" }
+        ],
+        "helper": {
+          "text": "This question is about the historical figure who initiated the Ottoman Empire."
+        }
+      },
+      {
+        "title": "Question 3: Which city served as the capital of the Ottoman Empire for centuries?",
+        "answers": [
+          { "answer": "Istanbul", "correct": true },
+          { "answer": "Ankara" },
+          { "answer": "Bursa" },
+          { "answer": "Izmir" }
+        ],
+        "helper": {
+          "text": "This city was previously named after the Roman empero's name Constantine."
+        }
+      },
+      {
+        "title": "Question 4: When did the Ottoman Empire officially end?",
+        "answers": [
+          { "answer": "1453" },
+          { "answer": "1683" },
+          { "answer": "1918" },
+          { "answer": "1922", "correct": true }
+        ],
+        "helper": {
+          "text": "Roaring 20s."
+        }
+      }
+    ]
+  }
+  
